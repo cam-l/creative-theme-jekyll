@@ -2,7 +2,7 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "variables",
-        "mixins",
-        "base"
+        "variables.css",
+        "mixins.css",
+        "base.css"
 ;
