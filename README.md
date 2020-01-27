@@ -16,6 +16,6 @@ See the original at <https://volny.github.io/creative-theme-jekyll/>
 - Start by adding your info in `_config.yml` & include
   - remote_theme: cam-l/creative-theme-jekyll
   - plugins:
-    - jekyll-remote-theme
+    \- jekyll-remote-theme
 - In `_layouts/front.html` reorder or remove section as you prefer.
 
